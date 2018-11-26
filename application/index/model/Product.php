@@ -11,17 +11,14 @@ class Product extends Controller
 {
 
 
-     public function __construct($data = null)
-    {
-     
-        parent::__construct();
-    }
+  public function __construct($data = null)
+  {
+      
+  }
  
 
-    public function Index()
+    public function index()
     {           
-      
-    
       
     }
 
